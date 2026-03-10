@@ -7,6 +7,7 @@ function Counter(){
       <button onClick={() => setCount((count) => count + 1)
       }> count is {count}</button>
       <h1> Sanjana</h1>
+      <p> I am a student.</p>
     </div>
     </>
   );
